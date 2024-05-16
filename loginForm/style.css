@@ -1,0 +1,18 @@
+body{
+    background-color: #87d12c;
+}
+.container{
+    background-color: white;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+    
+}
+.card-header{
+    background-color: blueviolet;
+    padding: 40px 150px;
+    
+}
+.form-input{
+    
+}

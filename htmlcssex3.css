@@ -1,0 +1,74 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 40px;
+}
+.card{
+    width: 250px;
+    height: 420px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid rgb(199, 195, 195);
+    box-shadow: 3px 3px gainsboro;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+span{
+    font-weight: bold;
+}
+#buyNow1{
+    width: auto;
+    height: 52px;
+    background-color: rgb(33, 123, 153);
+    margin-top: 27px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    color: whitesmoke;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#buyNow2{
+    width: auto;
+    height: 52px;
+    background-color: rgb(77, 74, 74);
+    margin-top: 27px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    color: whitesmoke;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#buyNow3{
+    width: auto;
+    height: 52px;
+    background-color: black;
+    margin-top: 27px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    color: whitesmoke;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#buyNow4{
+    width: auto;
+    height: 52px;
+    background-color: yellow;
+    margin-top: 27px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    color: whitesmoke;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

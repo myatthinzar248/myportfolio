@@ -1,0 +1,45 @@
+.container{
+    position: relative;
+}
+.self{
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background-color: aqua;
+}
+button{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 30px;
+    left: 100px;
+    background-color: palevioletred;
+    color: white;
+}
+button:hover{
+    width: 150px;
+    background-color: black;
+}
+table{
+    border: 1px solid sienna;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+tr,td,th{
+    border: 1px solid sienna;
+    width: 150px;
+}
+th{
+    background-color: blueviolet;
+}
+tr:nth-child(even){
+    background-color: yellowgreen;
+    
+}
+tr:last-child{
+    background-color: gray;
+}
+tr{
+    background-color: yellow;
+}
